@@ -36,7 +36,7 @@ libraries at http://pecl.php.net/package/json will be required.
 ## Installation
 
 ```
-composer require opensrs/osrs-toolkit-php 
+composer require perfectpanel/extlib-opensrs-osrs-toolkit-php
 ```
 
 ## Configuration
